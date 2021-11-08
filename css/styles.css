@@ -35,6 +35,28 @@
 .ingred{
     background-color: slateblue;
     font-size: 30px;
+    color: hsl(0, 100%, 100%);
+}
+
+
+/* to analyze the cascade*/
+.steps, .step {
+    background-color: yellowgreen;
+}
+
+.step {
+    color:violet;
+    font-size: 24px;
+    font-family: cursive;
+    background-color: yellow;
+}
+
+.steps1{
+    background-color: bisque;
+    color: chocolate;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17pxpx;
+    font-weight: lighter;
 }
 
 
